@@ -1,0 +1,24 @@
+{
+  "name": "nodegogogo",
+  "version": "1.0.0",
+  "description": "自己练习nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "thunkify": "^2.1.2",
+    "_thunkify@2.1.2@thunkify": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IMakiMaki/NodeGoGoGo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IMakiMaki/NodeGoGoGo/issues"
+  },
+  "homepage": "https://github.com/IMakiMaki/NodeGoGoGo#readme"
+}

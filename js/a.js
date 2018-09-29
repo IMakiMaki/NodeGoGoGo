@@ -1,0 +1,1 @@
+window.console.log('文件a.js啊')
